@@ -116,5 +116,8 @@ lab-assistant/
 - Multi-language support
 - PDF/Word export of generated reports and revision notes
 
-## Team
-_Add your team members and roles here._
+## Team Nexora
+
+- JENITA REBEKKA C
+- HASIN 
+
